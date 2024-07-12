@@ -3,5 +3,5 @@ Group project number 2 for the "Imaging for Neuroscience" class. The aim of this
 
 The whole project was performed on MATLAB.
 
-#code
+# code
 -"fNIRS_group8.m"
